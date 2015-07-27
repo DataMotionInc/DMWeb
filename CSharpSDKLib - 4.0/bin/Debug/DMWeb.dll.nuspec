@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DMWeb.dll</id>
+    <version>1.0.0</version>
+    <authors>kyleC</authors>
+    <owners>kyleC</owners>
+    <licenseUrl>http://support.datamotion.com/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/DataMotionInc/DMWeb40</projectUrl>
+    <iconUrl>http://support.datamotion.com/icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DMWeb for .NET 4.0</description>
+    <releaseNotes>Initial Commit.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>datamotion data motion secure mail securemail direct phi ihe ehr hipaa ehnac soap rest restful administration account company provisioning messaging email</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>

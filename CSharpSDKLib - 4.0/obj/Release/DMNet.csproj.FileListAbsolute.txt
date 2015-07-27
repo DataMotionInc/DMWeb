@@ -1,0 +1,7 @@
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\DMNet.dll.config
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\DMNet.dll
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\DMNet.XmlSerializers.dll
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\DMNet.pdb
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\DMNet.dll
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\DMNet.pdb
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\DMNet.XmlSerializers.dll
