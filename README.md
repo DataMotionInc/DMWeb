@@ -1,2 +1,2 @@
-# DMWeb40
-Repository for DMWeb .NET 4.0
+# DMWeb
+Repository for DMWeb .NET
