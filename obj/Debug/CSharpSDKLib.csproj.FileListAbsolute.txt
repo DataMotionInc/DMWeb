@@ -1,0 +1,6 @@
+c:\users\kylec\documents\visual studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Debug\CSharpSDKLib.csprojResolveAssemblyReference.cache
+c:\users\kylec\documents\visual studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Debug\CSharpSDKLib.dll.config
+c:\users\kylec\documents\visual studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Debug\CSharpSDKLib.dll
+c:\users\kylec\documents\visual studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Debug\CSharpSDKLib.pdb
+c:\users\kylec\documents\visual studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Debug\CSharpSDKLib.dll
+c:\users\kylec\documents\visual studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Debug\CSharpSDKLib.pdb

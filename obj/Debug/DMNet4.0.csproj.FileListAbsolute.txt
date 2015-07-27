@@ -1,0 +1,20 @@
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\DMWeb.dll.config
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\DMWeb.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\DMWeb.pdb
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\MailBee.NET.4.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\MailBee.NET.4.xml
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\obj\Debug\DMNet4.0.csprojResolveAssemblyReference.cache
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\obj\Debug\DMWeb.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib\obj\Debug\DMWeb.pdb
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\DMWeb.dll.config
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\DMWeb.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\DMWeb.pdb
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\MailBee.NET.4.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\MailBee.NET.4.xml
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\obj\Debug\DMNet4.0.csprojResolveAssemblyReference.cache
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\obj\Debug\DMWeb.dll
+C:\Users\kylec\Documents\DataMotion Programs\C#SDKLibNet4\CSharpSDKLib - 4.0\obj\Debug\DMWeb.pdb

@@ -1,0 +1,8 @@
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\CSharpSDKLib.dll.config
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\CSharpSDKLib.dll
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\CSharpSDKLib.XmlSerializers.dll
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\bin\Release\CSharpSDKLib.pdb
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\CSharpSDKLib.csprojResolveAssemblyReference.cache
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\CSharpSDKLib.dll
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\CSharpSDKLib.pdb
+C:\Users\kylec\Documents\Visual Studio 2012\Projects\CSharpSDKLib\CSharpSDKLib\obj\Release\CSharpSDKLib.XmlSerializers.dll
