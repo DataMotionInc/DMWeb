@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMWeb3.5", "CSharpSDKLib - 3.5\DMWeb3.5.csproj", "{CD8A6E77-1D18-42B2-B0F3-2A10532B0801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMWeb4.0", "CSharpSDKLib - 4.0\DMWeb4.0.csproj", "{30AA6756-23E8-4A9E-B677-8A5F1663A7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8A6E77-1D18-42B2-B0F3-2A10532B0801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8A6E77-1D18-42B2-B0F3-2A10532B0801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8A6E77-1D18-42B2-B0F3-2A10532B0801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8A6E77-1D18-42B2-B0F3-2A10532B0801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AA6756-23E8-4A9E-B677-8A5F1663A7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AA6756-23E8-4A9E-B677-8A5F1663A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AA6756-23E8-4A9E-B677-8A5F1663A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AA6756-23E8-4A9E-B677-8A5F1663A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
